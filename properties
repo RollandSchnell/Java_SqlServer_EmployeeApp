@@ -1,0 +1,4 @@
+
+user=root
+dburl=jdbc:mysql://localhost:80/demo_2
+password=devilboy
